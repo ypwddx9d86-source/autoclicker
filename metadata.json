@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Platform Auto Clicker",
+  "description": "Interactive cross-platform Auto Clicker simulator, test environment, and native Flutter project exporter for Android, iOS, and macOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
